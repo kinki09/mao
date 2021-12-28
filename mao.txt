@@ -301,7 +301,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "https://gitee.com/sparkle95/miaoyuan/blob/master/dandan.json"
+    "ext": "https://github.com/kinki09/mao/blob/main/dandan.json"
 },
 {
     "key": "csp_yysdali",
